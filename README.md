@@ -6,7 +6,7 @@
 
 | Prénom NOM | Identifiant Git | Groupe |
 |------------|-----------------|--------|
-|Yanis BOUVART| bYanis7t |        |DWDI
+|Yanis BOUVART| bYanis7t |     DWDI   |
 |            |                 |        |
 
 ### Répartition du travail
