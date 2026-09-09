@@ -7,7 +7,7 @@
 | Prénom NOM | Identifiant Git | Groupe |
 |------------|-----------------|--------|
 |Yanis BOUVART| bYanis7t |     DWDI   |
-|            |                 |        |
+|Adam KHEDROUCHE|    controlll             |  DWDI      |
 
 ### Répartition du travail
 
