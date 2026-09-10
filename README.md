@@ -6,8 +6,8 @@
 
 | Prénom NOM | Identifiant Git | Groupe |
 |------------|-----------------|--------|
-|            |                 |        |
-|            |                 |        |
+|Yanis BOUVART| bYanis7t |     DWDI   |
+|Adam KHEDROUCHE|    adaminhoo59             |  DWDI      |
 
 ### Répartition du travail
 
@@ -18,9 +18,9 @@ _Qui tient quels fichiers ? À revoir toutes les 3-4 séances, en échangeant le
 
 ## Le festival
 
-- **Thème :**
+- **Thème :**Musique
 - **En une phrase :**
-- **Blind test envisagé :** audio / vidéo — sur quoi ?
+- **Blind test envisagé :** Trouve la cover de l'album/son
 
 ## Lancer le projet
 
