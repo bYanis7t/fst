@@ -18,9 +18,10 @@ class Evenement {
 
   carte() {
     return `
-      <li class="carte">
+      <li class="carte" data-jour="${this.jour}">
         <h3>${this.titre}</h3>
-        ${this.jour} ${this.heureDebut} - ${this.heureFin()}
+        <p>${this.jour}</p>
+        <p>${this.heureDebut} - ${this.heureFin()}</p>
       </li>`;
-  }
+  }w
 }
