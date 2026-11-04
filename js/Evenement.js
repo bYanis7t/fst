@@ -1,6 +1,10 @@
 class Evenement {
-  constructor() {
+  constructor(donnees) {
 
+    this.titre = donnees.titre;
+    this.jour = donnees.jour;
+    this.heureDebut = donnees.heureDebut;
+    this.duree = donnees.duree;
   }
 
   heureFin() {
@@ -23,5 +27,5 @@ class Evenement {
         <p>${this.jour}</p>
         <p>${this.heureDebut} - ${this.heureFin()}</p>
       </li>`;
-  }w
+  }
 }
